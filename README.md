@@ -7,7 +7,9 @@ The problems are organized by topic and sorted roughly from fundamental concepts
 ## 📚 Resources & Solutions
 * **Official Code Solutions:** [github.com/tamim/codinginterviewbook](https://github.com/tamim/codinginterviewbook)
     * *Use this to check your code after watching the videos below.*
-* **YouTube Channel:** [Tamim Shahriar Subeen](https://www.youtube.com/user/tamimshahriar)
+* **YouTube Channel:** [Tamim Shahriar Subeen](https://www.youtube.com/@TamimShahriar/playlists)
+  
+
 
 ---
 
